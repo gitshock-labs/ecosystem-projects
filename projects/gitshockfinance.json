@@ -1,0 +1,27 @@
+{
+    "name": "GitshockFinance",
+    "slug": "gitshockfinance",
+    "date": "2022-02-16",
+    "highlight": "Gitshock Edgeware is a framework engine that will help developers in creating customized smart contract on multiple Ethereum Virtual Machine based chains.",
+    "logo": "/img/gitshockfinance.png",
+    "tags": [
+      "defi",
+      "utility",
+      "infrastructure",
+      "bridge",
+      "dashboard",
+      "dex",
+      "multi-chain",
+      "nodes"
+    ],
+    "status": "live",
+    "website": "https://app.1inch.io/#/43114/swap/AVAX/USDT.e",
+    "twitter": "https://twitter.com/1inch",
+    "summary": "",
+    "telegram": "https://t.me/OneInchNetworkNews",
+    "discord": "https://discord.com/invite/1inch",
+    "docs": "",
+    "github": "https://github.com/1inch",
+    "token": "",
+    "cmc": ""
+  }
