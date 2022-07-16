@@ -15,13 +15,13 @@
       "nodes"
     ],
     "status": "live",
-    "website": "https://app.1inch.io/#/43114/swap/AVAX/USDT.e",
-    "twitter": "https://twitter.com/1inch",
-    "summary": "",
-    "telegram": "https://t.me/OneInchNetworkNews",
-    "discord": "https://discord.com/invite/1inch",
-    "docs": "",
-    "github": "https://github.com/1inch",
-    "token": "",
-    "cmc": ""
+    "website": "https://gitshock.com",
+    "twitter": "https://twitter.com/gitshock",
+    "summary": "Gitshock Finance is a blockchain project created on Cosmos which aims to assist people in building new smart contracts, tokens and private blockchains on multiple EVM based chains easier and faster. This project provides several features for crypto developers to build their own smart contract by drag and drop tools, without any coding skills.",
+    "telegram": "https://t.me/gitshock",
+    "discord": "https://discord.gg/GJDSDpWqNx",
+    "docs": "https://gitshock.gitbook.io/gitshock-finance/",
+    "github": "https://github.com/gitshock-labs",
+    "token": "GTFX",
+    "cmc": "https://coinmarketcap.com/id/currencies/gitshock-finance/"
   }
